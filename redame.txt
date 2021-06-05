@@ -1,0 +1,3 @@
+Para poner en marcha este proyecto se deberá contar con algun software que le permita crear/arrancar
+un servidor para poder contar con la informacion de la base de datos del proyecto, y asi poder
+realizar las operaciones basicas del CRUD.

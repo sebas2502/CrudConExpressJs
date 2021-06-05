@@ -1,0 +1,44 @@
+/* En css */
+
+table th{
+    color: #fff;
+    text-align: center;
+}
+
+table  tr td{
+    text-align: center;
+
+}
+
+body{
+    background-color: rgb(39, 133, 133);
+}
+
+table  tr td a{
+   color:#fff;
+   background-color: black;
+   border: none;
+   border-radius: 3px;
+   text-decoration: none;
+   font-family: sans-serif;
+   font-weight: 700;
+   padding: 4px;
+}
+
+table  tr td .editar{
+    color:#fff;
+    background-color: rgb(48, 113, 235);
+ }
+
+ table  tr td .eliminar{
+    color:#fff;
+    background-color: rgb(211, 35, 35);
+ }
+
+ .title{
+     color: #fff;
+     font-family: sans-serif;
+     font-weight: 700;
+     text-align: center;
+     margin-bottom: 50px;
+}
